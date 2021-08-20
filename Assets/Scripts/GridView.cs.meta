@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31fb97e60f019ce43bdf6c9762041c6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TilePrefab: {fileID: 7336115743111449943, guid: 2625965d7891d94428da768cbec91bed,
+      type: 3}
+  - oSprite: {fileID: 21300000, guid: 661e69d31eb8ac241a2eec132a64e57d, type: 3}
+  - xSprite: {fileID: 21300000, guid: 687d1baa55d34674b8b4ed8fcd040fd4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
